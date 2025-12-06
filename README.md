@@ -58,4 +58,5 @@ It’s not just an Excel sheet — it’s the story of how I learned to think li
 ### 📌 Project File
 
 You can explore the interactive Excel file here:
-Sales_Dashboard.xlsx
+- salesdata.csv
+- Sales_Dashboard Screenshot
